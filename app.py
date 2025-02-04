@@ -23,7 +23,3 @@ def get_news():
 if __name__ == '__main__':
     app.run(debug=True)
     
-git add requirements.txt
-git status
-git commit -m "Added requirements.txt for Render deployment"
-git push origin main
